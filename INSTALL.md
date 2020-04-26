@@ -6,7 +6,7 @@ To install this repository and run the Jupyter notebooks on your machine, you wi
 Next, clone this repository by opening a terminal and typing the following commands:
 
     $ cd $HOME  # or any other development directory you prefer
-    $ git clone https://github.com/ageron/handson-ml2.git
+    $ git clone https://github.com/adeelahmad-co/Machine-Learning-and-Deep-Learning-practice.git
     $ cd handson-ml2
 
 If you do not want to install git, you can instead download [master.zip](https://github.com/ageron/handson-ml2/archive/master.zip), unzip it, rename the resulting directory to `handson-ml2` and move it to your development directory.
